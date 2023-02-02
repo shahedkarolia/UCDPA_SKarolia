@@ -1,2 +1,2 @@
 # UCDPA_SKarolia
-UCD_PA Specialist Certificate in Data Analytics Essentials
+UCD Professional Academy Specialist Certificate in Data Analytics Essentials
